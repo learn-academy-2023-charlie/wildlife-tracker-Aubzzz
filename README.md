@@ -4,11 +4,13 @@ Branch: animal-crud-actions
 
 Acceptance Criteria
 
-Create a resource for animal with the following information: common name and scientific binomial
-Can see the data response of all the animals
-Can create a new animal in the database
+Create a resource for animal with the following information: common name and scientific binomial✅
+Can see the data response of all the animals✅
+Can create a new animal in the database✅
 Can update an existing animal in the database
 Can remove an animal entry in the database
+
+
 Story 2: In order to track wildlife sightings, as a user of the API, I need to manage animal sightings.
 
 Branch: sighting-crud-actions
